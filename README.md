@@ -54,3 +54,23 @@ High-fidelity wireframes are typically used in the later stages of the design pr
 Here’s the wireframe created in Figma for this project:
 
 
+## Popular Wireframing Tools
+
+Wireframing can be done using a variety of tools, both offline and online. These tools help designers create, test, and share wireframes efficiently. Some popular options include:
+
+- **Balsamiq Mockups** – Known for its sketch-like appearance, ideal for quick low-fidelity wireframes.  
+- **Adobe XD** – Offers advanced prototyping and integration with other Adobe products.  
+- **Sketch** – Popular among macOS users for UI/UX design, with many plugins available.  
+- **Figma** – A collaborative, cloud-based tool that works across platforms.  
+
+### Why Figma for Wireframing?
+Figma stands out as a recommended tool because of its versatility and ease of use.  
+
+**Key Features:**
+- **Cross-platform:** Works on Windows, macOS, Linux, and in the browser without installation.  
+- **Real-time collaboration:** Multiple team members can work on the same wireframe simultaneously.  
+- **Components & templates:** Reusable UI elements speed up the design process.  
+- **Version history:** Keeps track of changes and allows easy rollback.  
+- **Free tier:** Accessible to students, individuals, and small teams at no cost.  
+
+ With its combination of collaboration, accessibility, and design flexibility, **Figma** is one of the best tools for creating bothlowfidelity
