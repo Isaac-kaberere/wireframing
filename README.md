@@ -28,6 +28,29 @@ Where text, images, videos, or other media are located on the page.
 Interactive components and features that define how the product will work.  
 **Example:** A search box on an e-commerce site allows users to quickly find products, improving usability and overall user experience.
 
-## Conclusion
-Wireframing ensures that the functionality, structure, and user experience are well thought out before moving into detailed design and development, making it a vital first step in the design process.
- 
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are basic sketches or outlines that represent the rough layout and structure of a design. They avoid details like colors, fonts, or images, focusing only on placement and hierarchy.  
+- **When to use:** In the early stages of brainstorming and conceptualizing ideas.  
+- **Example:** Hand-drawn sketches or simple digital mockups with boxes and placeholders.  
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and refined. They often include typography, colors, images, and sometimes interactive elements to closely resemble the final product.  
+- **When to use:** In later stages of the design process to communicate detailed visuals and user interactions.  
+- **Example:** Pixel-perfect mockups in tools like Figma or Sketch.  
+
+## What Type of Wireframe is This?
+The wireframe created in Figma for this project is a **High-Fidelity Wireframe**.  
+It includes:
+- Detailed layouts with structured content  
+- Use of colors, images, and typography  
+- Realistic navigation and user flow screens  
+
+### Why High-Fidelity?
+High-fidelity wireframes are typically used in the later stages of the design process. They provide a closer look at the final product, making it easier to test user experience, gather stakeholder feedback, and hand off the design to developers with clear visual guidance.
+
+### Visual Example
+Here’s the wireframe created in Figma for this project:
+
+
